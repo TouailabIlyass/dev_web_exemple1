@@ -16,5 +16,7 @@ index_exemple2.html is an example of using fetch
 
 ## docs
 https://www.webstepbook.com/supplements/slides/ch10-ajax_xml.pdf
+
 http://projanco.com/Library/Ajax%20Programming%20for%20the%20Absolute%20Beginner.pdf
+
 https://perso.univ-rennes1.fr/laurent.dorazio/data/teachings/js/js_ajax.pdf
